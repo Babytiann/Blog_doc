@@ -4,6 +4,7 @@ published: 2025-11-26
 tags: ["博客", "408", "技术"]
 category: "技术"
 lang: "zh-CN"
+image: "https://sang.gemdzqq.com/wp-content/uploads/2025/11/Gemini-Generated-Image-scaled.png"
 draft: false
 comment: true
 ---

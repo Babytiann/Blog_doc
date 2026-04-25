@@ -4,7 +4,7 @@ published: 2024-12-07
 description: "记录博客从想法到上线的过程，以及一路踩坑、学习和被帮助的经历。"
 tags: ["博客", "建站", "成长记录"]
 category: "日常"
-image: "https://meow-blog-image.s3.bitiful.net/chiikawa.webp"
+image: "https://sang.gemdzqq.com/wp-content/uploads/2024/12/Camera_XHS_17330642305631040g2sg319rg92lsna705nfb.jpg"
 lang: "zh-CN"
 draft: false
 comment: true

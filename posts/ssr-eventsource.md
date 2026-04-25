@@ -1,9 +1,9 @@
 ---
 title: "服务端渲染 SSR 入门：EventSource 与 Next.js / Nuxt.js 实践"
-published: 2026-04-25
+published: 2025-05-14
 description: "从 SEO、首屏性能和实时推送场景出发，简单介绍 SSR、SSE/EventSource，以及 Next.js 与 Nuxt.js 的常见实践。"
 tags: ["SSR", "EventSource", "Next.js", "Nuxt.js", "前端"]
-category: "前端"
+category: "技术"
 lang: "zh-CN"
 draft: false
 comment: true

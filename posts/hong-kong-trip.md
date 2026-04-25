@@ -1,9 +1,9 @@
 ---
 title: "香港雨中之旅：生日、迪士尼和说走就走"
-published: 2026-04-25
+published: 2025-08-08
 description: "一次说走就走的香港旅行记录：雨天、迪士尼、茶餐厅、维港和生日烟花。"
 tags: ["香港", "旅行", "迪士尼", "生活记录"]
-category: "旅行"
+category: "日常"
 lang: "zh-CN"
 draft: false
 comment: true

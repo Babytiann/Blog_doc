@@ -1,10 +1,10 @@
 ---
 title: "咕噜咕噜，博客开张啦！"
-published: 2026-04-25
+published: 2024-12-07
 description: "记录博客从想法到上线的过程，以及一路踩坑、学习和被帮助的经历。"
 tags: ["博客", "建站", "成长记录"]
-category: "随笔"
-image: "https://meow-blog-image.s3.bitiful.net/chiikawa.webp"
+category: "日常"
+image: "https://meow-blog-image.s3.bitiful.net/avatar.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=L3694ROvn6cex0alqdyvaxPI%2F20260425%2F%2Fs3%2Faws4_request&X-Amz-Date=20260425T090605Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&x-id=GetObject&X-Amz-Signature=9a686991e7836f96c1652ce62fd0c669238b163914bb4b7835aee90ab1c013bcp"
 lang: "zh-CN"
 draft: false
 comment: true
